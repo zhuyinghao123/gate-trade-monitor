@@ -1,14 +1,15 @@
 {
-  "updatedAt": "2026-11-06T20:25:00+08:00",
+  "updatedAt": "2026-11-06T21:21:26+08:00",
   "account": {
-    "loggedIn": true,
-    "spotUsdt": 26.26,
-    "note": "现货可用 USDT（手动同步）"
+    "loggedIn": false,
+    "spotUsdt": null,
+    "note": "监控已关闭"
   },
   "focus": {
-    "market": "BTC 5m Up/Down",
-    "url": "https://www.gate.com/trade-events/btc-updown-5m"
+    "market": null,
+    "url": null
   },
-  "botStatus": "待机 · 等待交易规则",
-  "trades": []
+  "botStatus": "已关闭 · 不再更新",
+  "trades": [],
+  "stopped": true
 }
